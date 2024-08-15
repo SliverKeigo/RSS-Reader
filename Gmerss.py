@@ -13,7 +13,7 @@ rssBase={
     "阮一峰":{
         "url":"http://www.ruanyifeng.com/blog/atom.xml",
         "type":"weekly",
-        "timeFormat":"%a, %d %b %Y %H:%M:%S GMT",
+        "timeFormat":"%Y-%m-%dT%H:%M:%SZ",
         "nameColor":"#1f883d"
     },
     "Anthony Fu":{
